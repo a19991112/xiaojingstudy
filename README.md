@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# 小鲸的 Vue 3 学习项目
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+小鲸过来看啊 —— 这是我重新开始学前端的第一天做的待办清单。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 技术栈
+- Vue 3（`<script setup>` 组合式 API）
+- Vite 构建
+
+## 命令
+- `npm install`  装依赖
+- `npm run dev`  开发服务器（5173）
+- `npm run build` 打包到 dist
+- `npm run preview` 预览打包结果（4173）
