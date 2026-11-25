@@ -53,7 +53,7 @@ function clearDone() {
 
 <template>
   <main class="app">
-    <h1>今天要做的事</h1>
+    <h1>鲸鲸的待办</h1>
 
     <form class="row" @submit.prevent="add">
       <input v-model="draft" type="text" placeholder="写点什么…" autocomplete="off" />
